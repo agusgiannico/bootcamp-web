@@ -1,0 +1,616 @@
+
+.metlogo{
+	margin-top: 14px; 
+	margin-bottom: 14px;
+	margin-left: 48px; 
+	display: inline-block;
+
+}
+.menu {
+	color: #666666;
+	font-family: Helvetica;
+  	font-size: 14px;
+  	font-weight: normal;
+  	font-style: normal;
+  	font-stretch: normal;
+  	float: right;
+  	margin-top: 21px;
+
+
+ }
+#txtnosotras {
+	width: 57px;
+	height: 22px;
+	line-height: 1.57;
+	margin-right: 15px;
+	text-decoration: none;
+	border-right: solid 1px #eeeeee;
+
+}
+#txtbootcamp{  
+	width: 64px;
+  	height: 22px;
+  	line-height: 1.57;
+	margin-right: 15px;
+	text-decoration: none;
+  	border-right: solid 1px #eeeeee;
+  }
+#txtcontacto{
+	width: 60px;
+	height: 22px;
+	line-height: 1.57;
+	margin-right: 48px;
+	text-decoration: none;
+
+}
+
+
+.aprende {
+	display: inline-block;
+	text-align: left;
+	position: relative;
+	background-size: 1280px 512px;
+
+}
+
+#encabezado {
+	position: absolute;
+	margin-left: 130px;
+	margin-right:622px;
+	margin-top: 185px;
+	margin-bottom: 127px;
+
+
+	width: 528px;
+  	height: 200px;
+  	font-family: Helvetica;
+  	font-size: 48px;
+  	font-weight: bold;
+  	font-style: normal;
+  	font-stretch: normal;
+  	line-height: 1.04;
+  	letter-spacing: normal;
+  	color: #ffffff;
+}
+#rectangulo{
+	background: #ff5d5d;
+	 width: 106px;
+  	height: 141px;
+  	position: absolute;
+
+  	
+	margin-top: 185px;
+	margin-bottom: 186px;
+}
+
+
+.comunidad {
+	padding: 64px 280px;
+	align-items: center;
+}
+.titulo1{
+	text-align: center;
+	
+}
+
+.subtitulo {
+	width: 260px;
+  	height: 41px;
+  	font-family: Helvetica;
+  	font-size: 32px;
+  	font-weight: normal;
+  	font-style: normal;
+  	font-stretch: normal;
+ 	line-height: 1.27;
+  	letter-spacing: normal;
+ 	text-align: center;
+  	color:#333333;
+  	margin-left: 230px;
+  	
+	}
+
+.parrafo1{
+	text-align: center;
+	width: 720px;
+  	height: 132px;
+  	max-width: 720px;
+	
+}
+
+
+.bootcamp {
+	background:#f5f6f8;
+	background-size: 1280px 396px;
+	padding: 65px 130px;
+	text-align: left;
+
+}
+
+
+.parrafo2{
+	display: block;
+	max-width: 613px;
+	margin: 16px 0;
+	
+}
+.parrafos{	
+	display: inline-block;
+
+}
+.imagen2{
+	height: 192px;
+	width: 312px;
+  	display: inline-block;
+}
+
+
+
+
+
+.contacto { 
+	padding: 65px 360px 0px 361px;
+}
+
+.titulo3 {
+ 	width: 570px;
+}
+.parrafo3 {
+ 	width: 499px;
+  	height: 50px;
+  	margin: 18px 30px 0px 30px;
+  	text-align:center;
+}
+
+
+
+
+.lbl {
+	width: 73.2px;
+  	height: 14px;
+  	font-family: Helvetica;
+  	font-size: 14px;
+  	font-weight: normal;
+  	font-style: normal;
+  	font-stretch: normal;
+  	line-height: 1;
+  	letter-spacing: normal;
+  	color: rgba(0, 0, 0, 0.45);
+}
+.labelnom{
+  	margin-bottom: 10px;
+	display: block;
+}
+
+
+.labelape{
+	margin-bottom: 10px;
+	display: block;
+}
+.labelmail{
+	margin-bottom: 10px;
+	display: block;
+}
+.labeltel{
+	margin-bottom: 10px;
+	display: block;
+}
+.labelcon{
+	margin-bottom: 10px;
+	display: block;
+}
+
+.section1,.section2,.section3,.section4{
+	display: inline-block;
+	}
+
+.section1{
+	margin: 48px 24px 0px 60px;
+}
+.section3{
+	margin: 48px 24px 44px 60px;
+}
+.section5{
+	margin-left: 60px;
+	margin-right: 61px;
+}
+.inputnom,.inputape,.inputmail, .inputtel {
+  	display: block;
+}
+.inputcon{
+	width: 298px;
+  height: 22px;
+  border-radius: 4px;
+  border: solid 1px rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  display: block;
+  padding: 14px 367px 101px 16px;
+
+}
+input { 
+  width: 292px;
+  height: 22px;
+  border-radius: 4px;
+  border: solid 1px rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  padding: 14px 18px 14px 16px;
+
+}
+input::placeholder {
+  width: 292px;
+  height: 22px;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  color: rgba(0, 0, 0, 0.8);
+  
+}
+textarea::placeholder{
+	width: 292px;
+  	height: 22px;
+  	font-family: Helvetica;
+  	font-size: 16px;
+  	font-weight: normal;
+  	font-style: normal;
+  	font-stretch: normal;
+  	line-height: 1.38;
+  	letter-spacing: normal;
+  	color: rgba(0, 0, 0, 0.8);
+}
+
+button {
+	width: 145px;
+  	font-family: Helvetica;
+  	font-size: 16px;
+  	font-weight: normal;
+  	font-style: normal;
+  	font-stretch: normal;
+  	line-height: normal;
+  	letter-spacing: normal;
+  	text-align: center;
+  	color: #ffffff;
+  	margin:56.7px 325px 61.3px 326px;
+  	padding: 12.7px 24px 13.3px 24px;
+  	border-radius: 4px;
+  	background-color:#e24752;
+}
+
+.formulario{
+	width: 796px;
+  	height: 578px;
+  	border-radius: 4px;
+  	box-shadow: 0 3px 10px 0 rgba(39, 46, 87, 0.12);
+	margin: 54px 242px 79px 242px;
+	padding: 48px 60px;
+}
+
+
+.footer {
+	background: #e24752;
+	background-size: 1280px 148px;
+	padding: 24px 48px 24px 43px;
+}
+
+.texto{
+	font-family: Helvetica;
+  	font-size: 13px;
+  	color: #ffffff;
+  }
+.texto1{
+	width: 145px;
+  	height: 36px;
+  	margin: 0px 0px 8px 0px;
+}
+.texto2{
+	width: 59px;
+  	height: 18px;
+  	margin: 0px 0px 6px 0px;
+}
+.logoredes{
+	align-items: left;
+}
+.deconone{
+	text-decoration: none;
+}
+.facebook,.twitter,.linkedin{
+	margin-right: 12px;
+}
+.logowhite{
+	float: right;
+	margin-top:-18px; 
+	
+}
+
+.titulo {
+	color:#ff5d5d;
+  	font-family: Helvetica;
+  	font-size: 48px;
+  	font-weight: bold;
+  	font-style: normal;
+  	font-stretch: normal;
+  	line-height: 1;
+
+	}
+
+.parrafo {
+	color:#333333;
+	font-family: Helvetica;
+  	font-size: 20px;
+}
+
+@media screen and (max-width: 360px) 
+{
+  .header {
+    width: 360px;
+    padding: 18px 15.5px 19px 16px;
+
+}
+  .metlogo {
+    width: 64px;
+    object-fit: contain;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+}
+.menu {
+    margin-left: 24.5px;
+    margin-top: 0px;    
+    display: inline-block;
+}
+#txtnosotras, #txtbootcamp {
+  margin-right: 6.5px;
+  }
+#txtcontacto {
+  margin-right: 15.5px;
+  }
+
+
+
+.aprende {
+  display: inline-block;
+  text-align: left;
+  position: relative;
+  background-size: 360px 400px;
+
+}
+
+#encabezado {
+  width: 290px;
+  height: 112px;
+ padding:156px 46px 132px 24px;
+ margin:0px 0px 0px 0px;
+ font-size: 28px;
+
+    
+}
+#rectangulo{
+   width: 8px;
+    height: 84px;
+  margin-top: 156px;
+  margin-bottom: 160px;
+}
+
+
+.comunidad {
+  padding: 65px 50px 64px 50px;
+  align-items: center;
+}
+.titulo1{
+  text-align: center;
+  width: 284px;
+  height: 38px;
+  line-height: 1.06;
+  font-size: 36px;
+}
+
+.subtitulo {
+  width: 195px;
+  height: 30px;
+  font-size: 24px;
+  line-height: 1.25;
+  margin-left: 50px;
+    
+  }
+
+.parrafo1{
+  width: 300px;
+  height: 222px;
+  max-width: 300px;
+  font-size: 16px;
+  line-height: 1.56;
+  text-align: center;
+}
+
+
+.bootcamp {
+  width: 360px;
+  background-size: 360px 682px;
+  padding: 65px 24px 64px 17.5px;
+  text-align: center;
+  
+
+}
+
+.titulo2{
+  font-size: 36px;
+  line-height: 1.06;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 26px;
+}
+.parrafo{
+  font-size: 16px;
+  line-height: 1.56;
+  font-style: normal;
+  font-stretch: normal;
+  text-align: left;
+}
+.parraf2{
+  text-align: justify;
+}
+.parrafo2{
+  display: block;
+  max-width: 312px;
+  margin: 16px 0;
+  
+}
+.parrafos{  
+  display: inline-block;
+
+}
+
+.contacto { 
+  padding: 65px 30px;
+  width: 360px;
+}
+
+.titulo3 {
+  width: 300px;
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.06;
+  letter-spacing: normal;
+  text-align: center;
+  margin:0px 0px 0px 30px;
+  
+}
+.parrafo3 {
+  width: 300px;
+    height: 60px;
+    margin: 25px 30px 0px 30px;
+    text-align:center;
+}
+
+
+
+
+.lbl {
+ 
+}
+.labelnom{
+    margin-bottom: 10px;
+  display: block;
+}
+
+
+.labelape{
+  margin-bottom: 10px;
+  display: block;
+}
+.labelmail{
+  margin-bottom: 10px;
+  display: block;
+}
+.labeltel{
+  margin-bottom: 10px;
+  display: block;
+}
+.labelcon{
+  margin-bottom: 10px;
+  display: block;
+}
+
+.section1,.section2,.section3,.section4{
+  display: block;
+  margin: 0px 0px 24px 0px;
+  }
+
+
+.section5{
+  margin:0px 0px;
+
+}
+
+.inputcon{
+  width: 280px;
+  height: 263px;
+  border-radius: 4px;
+  border: solid 1px rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  display: block;
+  padding: 0px 0px 0px 16px;
+
+}
+input { 
+  width: 280px;
+  height: 48px;
+  padding: 0px 0px 0px 16px;
+
+}
+input::placeholder {
+  width: 248px;
+  height: 22px;
+
+}
+textarea::placeholder{
+  width: 248px;
+    height: 22px;
+}
+
+button {
+  width: 280px;
+  margin:24px 16px 0px 16px;
+  padding: 13px 29px;
+    
+}
+.formulario{
+  width: 312px;
+    height: 803px;
+    border-radius: 6px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.1);
+  margin: 39px 24px 65px 41px;
+  padding: 24px 15px;
+  align-items: center;
+}
+
+
+.footer {
+  width: 360px;
+  height: 257px;
+  background-size: 360px 257px;
+  padding: 32px 172px 32px 24px;
+}
+.texto{
+  margin-top: 32px;
+}
+.texto1{
+  width: 145px;
+    height: 36px;
+    margin: 0px 0px 24px 0px;
+}
+.texto2{
+  width: 59px;
+    height: 18px;
+    margin: 0px 0px 7px 0px;
+}
+.logoredes{
+  align-items: left;
+}
+.deconone{
+  text-decoration: none;
+}
+.facebook,.twitter,.linkedin{
+  margin-right: 12px;
+}
+.logowhite{
+  float: none;
+  margin:50px 178px 32px 0px;
+  display: block;
+
+  
+}
+
+
+
+
+
+
+
+
+}
